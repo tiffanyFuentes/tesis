@@ -1,0 +1,398 @@
+DATOS DE LA CAUSA 
+Sede: Ciudad de Alta Gracia 
+Dependencia: Juzgado Civil, Comercial, Conciliación y Familia de Segunda 
+Nominación, Secretaría n.° 4 
+Autos: “Baravalle, Estela Mary y otro c/ Banco de Córdoba SA - Abreviado - Otros 
+- Trámite oral”, expediente n.° 10400767 
+Resolución: Sentencia n.° 34 
+Fecha: 29/3/2023 
+Jueza: Lorena Beatriz Calderón 
+ 
+ 
+SÍNTESIS DE LA CAUSA  
+Los actores promovieron demanda por daños y perjuicios en contra de la entidad 
+bancaria. En su carácter de titulares de cuenta, reclamaron daño emergente y moral. 
+Fundaron su pretensión en la falta atención al cliente e incumplimiento de los 
+deberes de información y seguridad por el banco, ante el reclamo realizado con 
+motivo de transferencias realizadas hacia terceros desconocidos, mediante una 
+maniobra de phishing. La demandada solicitó el rechazo de la demanda. Negó su 
+responsabilidad e invocó ruptura del nexo causal, con fundamento en que el ilícito 
+se produjo debido a la divulgación de información privada y confidencial por los 
+actores a terceros, en una llamada telefónica. La jueza hizo lugar a la demanda. 
+Para así decidir, ponderó que el banco no adoptó medidas de seguridad que 
+comprendan a los actores como usuarios financieros, adultos mayores y carentes 
+de experiencia en el ámbito digital.  
+ 
+ 
+SUMARIOS: 
+ 
+DERECHO DEL CONSUMIDOR. CONTRATOS BANCARIOS. USUARIO 
+FINANCIERO. Concepto. Régimen jurídico aplicable 
+ 
+Quien resulta titular de una cuenta bancaria engasta dentro de la categoría jurídica 
+de consumidor, cuando se trata de una persona que utiliza un servicio financiero 
+ofrecido por la entidad bancaria, a título oneroso, como destinatario final en 
+
+ 
+beneficio propio o de su familia (art. 1 Ley n.° 24240 -LDC-). Además, la 
+Comunicación “A” 5990 del Banco Central de la República Argentina de “Protección 
+de los usuarios de servicios financieros” establece un concepto particular de 
+“usuario de servicio financiero” a los fines de su aplicación. Expresa que son tales 
+las personas físicas y jurídicas que en beneficio propio o de su grupo familiar o social 
+y en carácter de destinatarios finales hacen uso de los servicios ofrecidos por los 
+sujetos obligados en dicha reglamentación, como así también quienes de cualquier 
+otra manera están expuestos a una relación de consumo con tales sujetos. De tal 
+modo, dicha normativa prevé un concepto de sujeto tutelado más amplio que el que 
+surge del Código Civil y Comercial de la Nación -CCC- (art. 1092). 
+ 
+CONTRATOS BANCARIOS. RELACIÓN DE CONSUMO. Asimetría. USUARIO 
+FINANCIERO. Vulnerabilidad 
+ 
+La relación jurídica bancaria es asimétrica, dado que en uno de los polos se 
+encuentra una entidad profesional y especializada en la materia, que tiene evidente 
+superioridad jurídica, económica y técnica; y por el otro costado se encuentra el 
+usuario financiero, colocado en una situación de vulnerabilidad derivada de la 
+complejidad que entraña la tecnología y los sistemas de información aplicados a la 
+actividad bancaria y financiera. 
+ 
+CONTRATOS 
+BANCARIOS. 
+Contratos 
+por 
+adhesión. 
+Derechos 
+del 
+consumidor. Carácter protectorio 
+ 
+El contrato bancario tiene su encuadre jurídico en un contrato por adhesión, en el 
+que la parte adherente se subordina a cláusulas generales predispuestas 
+unilateralmente por la otra, sin haber participado en su redacción (art. 984 CCC). 
+Por estas especiales particularidades, el juez al momento de aplicar el estatuto del 
+consumidor debe tener en cuenta la preminencia de su carácter tuitivo a favor de 
+los consumidores y usuarios, a los efectos de garantizar su completa eficacia. 
+ 
+ 
+
+ 
+DERECHO DEL CONSUMIDOR. OBLIGACIÓN DE SEGURIDAD. Fundamento 
+normativo. 
+Deber 
+de 
+adoptar 
+medidas 
+preventivas 
+del 
+daño. 
+RESPONSABILIDAD OBJETIVA. Eximentes 
+ 
+El estatuto del consumidor establece una obligación de seguridad en cabeza de 
+quien presta bienes o servicios de manera profesional, aun ocasionalmente, 
+destinados a consumidores o usuarios. Dentro del plexo normativo, el art. 42 de la 
+Constitución Nacional (CN) consagra el derecho de consumidores y usuarios a la 
+protección de su salud, seguridad e intereses económicos. Así, dicha norma -y 
+también el art. 5 LDC- reconoce al consumidor el derecho a la preservación de la 
+indemnidad, de su persona y bienes, en el marco de una relación de consumo. 
+Como correlato, el proveedor tiene el deber de adoptar medidas con carácter 
+preventivo, para que la utilización del producto -en condiciones previsibles o 
+normales de uso- no cause daños al consumidor o usuario. Si éste sufre un daño 
+que comprometa la responsabilidad objetiva del proveedor, el sindicado como 
+responsable sólo podrá eximirse acreditando una causa ajena (art. 1722 CCC y 40 
+LDC); es decir, mediante la demostración de un antecedente indispensable del 
+perjuicio con idoneidad suficiente para producirlo, que pueda ser calificado como 
+hecho de la víctima o un tercero, o caso fortuito. 
+ 
+DERECHO DEL CONSUMIDOR. OBLIGACIÓN DE SEGURIDAD. CONTRATOS 
+BANCARIOS. Servicios bancarios prestados a través de medios digitales. 
+RIESGO CREADO. Imprevisibilidad. Prevención del fraude informático 
+ 
+El encuadre jurídico del sistema informático como una cosa riesgosa obedece a la 
+gran complejidad que entraña la tecnología en sí misma y, específicamente, en lo 
+que respecta a un sistema informático cuya operatividad se circunscribe a la 
+actividad bancaria, a la imprevisibilidad que tienen los entornos digitales. Esta 
+imprevisibilidad que caracteriza al sistema informático sumada a la vulnerabilidad 
+que posee frente a eventuales ataques externos por parte de terceros, constituyen 
+riesgos propios que las instituciones bancarias deben asumir frente a las potenciales 
+consecuencias dañosas que puedan sufrir sus clientes, toda vez que es el banco 
+quien en definitiva introduce esta cosa riesgosa dentro de la relación de consumo. 
+De allí que, la obligación de seguridad que pesa sobre la institución bancaria le 
+
+ 
+impone extremar medidas de gestión, implementación y control de los riesgos 
+relacionados con la tecnología informática, sistemas de información y recursos 
+asociados para las entidades financieras, tendientes a evitar los previsibles fraudes 
+informáticos; de manera tal que su utilización sea segura para los usuarios. En esa 
+inteligencia, el presupuesto básico de los servicios que ofrece la entidad bancaria 
+es que éstos sean utilizados, tanto cuando se haga en forma personal como cuando 
+lo sea por medios electrónicos, con total seguridad para el cliente. 
+ 
+DERECHO DEL CONSUMIDOR. DEBER DE INFORMACIÓN. Fundamento 
+ 
+El deber de información constituye uno de los derechos fundamentales reconocidos 
+constitucionalmente a favor del consumidor o usuario en el art. 42 de la CN y 
+regulado por los arts. 1100 del CCC y 4 de la LDC. A través de este deber de 
+suministrar información cierta, clara, detallada, veraz y adecuada se intenta paliar 
+en alguna medida el desequilibrio estructural existente entre las partes, a los fines 
+de que el consumidor pueda efectuar una elección racional o fundada con respecto 
+al producto que pretende contratar. En relación al deber de información cuando la 
+contratación se celebra a través de medios electrónicos, el art. 1107 del CCC 
+dispone que el proveedor debe informar al consumidor, además del contenido 
+mínimo del contrato y la facultad de revocar, todos los datos necesarios para utilizar 
+correctamente el medio elegido, para comprender los riesgos derivados de su 
+empleo y para tener absolutamente claro quién asume esos riesgos. 
+ 
+DERECHO DEL CONSUMIDOR. DEBER DE INFORMACIÓN. CONTRATOS 
+BANCARIOS. Servicios bancarios prestados a través de medios electrónicos 
+ 
+En relación al deber de información cuando la contratación se celebra a través de 
+medios electrónicos, el art. 1107 del CCC dispone que el proveedor debe informar 
+al consumidor, además del contenido mínimo del contrato y la facultad de revocar, 
+todos los datos necesarios para utilizar correctamente el medio elegido, para 
+comprender los riesgos derivados de su empleo y para tener absolutamente claro 
+quién asume esos riesgos.  
+ 
+
+ 
+DERECHO DEL CONSUMIDOR. DEBER DE INFORMACIÓN. CONTRATOS 
+BANCARIOS. Principio protectorio. Principio de transparencia 
+ 
+El principio protectorio consagrado por la CN a favor de consumidores y usuarios se 
+erige como cimiento y propaga sus efectos hacia todo el ordenamiento jurídico. 
+Como derivación de aquél se desprende el principio de transparencia, aplicable a 
+toda la información que debe suministrar la institución bancaria respecto de las 
+condiciones de contratación, los servicios que presta a través de las cajas de 
+ahorros de sus clientes, la modalidad de débitos, transferencias y consumos, los 
+sistemas y controles de seguridad de las operaciones bancarias, la forma en que 
+deben efectuarse los reclamos, entre otros. 
+ 
+DERECHO DEL CONSUMIDOR. DEBER DE TRATO DIGNO, EQUITATIVO Y NO 
+DISCRIMINATORIO. Marco normativo 
+ 
+El estatuto del consumidor pone en cabeza del proveedor el deber de dispensar al 
+consumidor o usuario un trato digno, equitativo y no discriminatorio. Expresamente 
+consagrado en el art. 42 de la CN, incorporado mediante el art. 8 bis a la LDC y 
+previsto por la Ley n.° 26994 en sus arts. 1097 y 1098, incorpora un estándar de 
+protección cimentado en los tratados de derechos humanos con jerarquía 
+constitucional (art. 75 inc. 22 CN). Este deber constituye una manifestación propia 
+del carácter tuitivo del régimen consumeril y propende a que se brinde un marco de 
+respeto a los derechos de consumidores y usuarios, absteniéndose de realizar 
+prácticas abusivas que los coloquen en situaciones donde se vulnere su dignidad. 
+ 
+DERECHO DEL CONSUMIDOR. DEBER DE INFORMACIÓN. DEBER DE TRATO 
+DIGNO, EQUITATIVO Y NO DISCRIMINATORIO. Consumidor adulto mayor. 
+Pautas de interpretación 
+ 
+La adecuación de la información y el trato digno, equitativo y no discriminatorio que 
+debe suministrar el proveedor al consumidor, tratándose de una persona mayor, 
+debe ser interpretado a la luz del principio de igualdad de trato previsto por el art. 
+16 de la CN y en el marco de la Convención Interamericana sobre la Protección de 
+los Derechos Humanos de las Personas Mayores y Convención Americana de 
+
+ 
+Derechos Humanos, incorporadas al bloque constitucional (art. 75 inc. 22 CN); como 
+así también por las Reglas de Brasilia sobre Acceso a la Justicia de las Personas 
+en Condición de Vulnerabilidad, que integran el sistema de fuentes del derecho 
+interno argentino, pues la Corte Suprema de Justicia de la Nación (mediante 
+Acordada Nro. 5/09) dispuso su seguimiento en cuanto resulten procedentes como 
+recomendación o guía en los asuntos que tratan. 
+ 
+DERECHO 
+DEL 
+CONSUMIDOR. 
+CONTRATOS 
+BANCARIOS. 
+Servicios 
+bancarios prestados a través de medios electrónicos. Consumidor adulto 
+mayor. Hipervulnerabilidad 
+ 
+A los fines de dictar un pronunciamiento justo, debe ponderarse si existe una 
+situación de “hipervulnerabilidad”, tal como la que puede verificarse si se trata de 
+adultos mayores, con exiguas competencias en el entorno digital, que integran la 
+categoría de usuarios de un servicio financiero prestado a través de un sistema 
+informático. A su vez, cuando in concreto exista alguna situación personal 
+diferenciada de hiposuficiencia, vinculada a la edad, condición psicofísica, de 
+género, socioeconómica o cultural o a otras circunstancias permanentes o 
+transitorias del consumidor, da lugar a la hipervulnerabilidad.  
+ 
+INTERPRETACIÓN DE LA LEY. Pautas. PERSONAS EN CONDICIÓN DE 
+VULNERABILIDAD. 100 REGLAS DE BRASILIA. Protección preferencial. 
+Deberes del juez. Perspectiva de vulnerabilidad 
+ 
+El CCC sienta bases para la interpretación de la ley en los tratados internacionales 
+y -en particular- en el respeto a los derechos humanos. En este marco, tratándose 
+de derechos de personas con alta vulnerabilidad como niños, niñas y adolescentes, 
+personas con discapacidad, adultos mayores, entre otros, "Las 100 reglas de 
+Brasilia" les otorgan protección preferencial. Se trata de pautas de interpretación 
+que recogen valores fundamentales y coadyuvan al juez al momento de resolver, ya 
+que todo el sistema judicial se debe establecer como instrumento para la defensa 
+efectiva de sus derechos y garantías. Los jueces deben procurar siempre una 
+actuación más intensa para vencer, eliminar o mitigar limitaciones a aquéllos. Esto 
+debe implicar también una mayor sensibilización de funcionarios y magistrados 
+
+ 
+llamados a intervenir y juzgar estas causas, con una "perspectiva de vulnerabilidad", 
+sin que signifique una afectación indebida del debido proceso. 
+ 
+RESPONSABILIDAD 
+CIVIL. 
+DAÑOS 
+Y 
+PERJUICIOS. 
+CONTRATOS 
+BANCARIOS. Fraude informático. PHISHING. Responsabilidad del banco. 
+Hecho de la víctima: improcedencia  
+ 
+No corresponde atribuir responsabilidad al adulto mayor titular de una cuenta 
+bancaria por la divulgación a terceros de información de carácter privada y 
+confidencial, cuando resulta víctima de un fraude cometido por terceros y al 
+encontrarse bajo la manipulación y engaño de los defraudadores, no tiene 
+conocimiento ni puede dimensionar que la operatoria se dirige a realizar 
+transferencias dinerarias desde su cuenta bancaria a cuentas de terceros, no 
+comprende los riesgos y posibles consecuencias de ese obrar, sino que en ese 
+momento cree que su problema está siendo solucionado por la persona que se 
+identifica como dependiente de la entidad bancaria, a través de una maniobra de 
+phishing. 
+ 
+RESPONSABILIDAD 
+CIVIL. 
+DAÑOS 
+Y 
+PERJUICIOS. 
+CONTRATOS 
+BANCARIOS. Fraude informático. PHISHING. Divulgación de información 
+confidencial por parte del usuario. Responsabilidad del banco. Ruptura del 
+nexo causal: improcedencia 
+ 
+La divulgación de información confidencial en resguardo del titular de una cuenta 
+bancaria no puede ser interpretada como hecho de la víctima que fractura el nexo 
+de causalidad, eximiendo de responsabilidad a la entidad financiera ante un fraude 
+informático cometido por terceros. Ello así, cuando dicha divulgación se asienta en 
+la confianza depositada en el banco, al cual se contacta ante un problema con el 
+uso de tarjetas y de quien se espera una solución efectiva. Es que el consumidor 
+otorga a la entidad una confianza especial (art. 1725 CCC) por la cual coloca sus 
+fondos en una cuenta abierta a los fines de su depósito y eventual concreción de 
+operaciones monetarias. Esta confianza descansa en la transparencia y buena fe 
+que debe observar todo proveedor, fundamentalmente cuando el servicio que presta 
+es un servicio financiero, como así también en la experiencia y calidad profesional 
+
+ 
+en la intermediación financiera que exterioriza el banco. Este factor no debe 
+soslayarse a los fines de determinar su responsabilidad. 
+ 
+RESPONSABILIDAD 
+CIVIL. 
+DAÑOS 
+Y 
+PERJUICIOS. 
+CONTRATOS 
+BANCARIOS. Fraude informático. PHISHING. RESPONSABILIDAD DEL 
+BANCO. Uso de plataformas digitales. Cosa riesgosa 
+ 
+Para liberarse de responsabilidad frente al fraude informático cometido por terceros 
+en perjuicio del titular de una cuenta bancaria, no basta que la entidad financiera 
+alegue que la utilización de la plataforma digital del banco es de carácter opcional 
+para el cliente. Ello así, desde que la entidad bancaria es quien introduce dentro del 
+contrato de consumo con su cliente la oferta de un servicio digital que entraña el 
+carácter de riesgoso. Consecuentemente, sin perjuicio de que el consumidor opte o 
+no por esta modalidad, el proveedor tiene deber de proporcionar a través de una 
+metodología adecuada a las condiciones particulares del cliente, información 
+suficiente sobre el funcionamiento del producto tecnológico, instrucciones de uso y 
+demás especificaciones técnicas, a los fines de que el consumidor pueda operar 
+normalmente en condiciones que no comprometan su indemnidad. La entidad 
+bancaria no puede asumir una actitud pasiva frente a tal exigencia; debe 
+proporcionar información teniendo en cuenta a quién va dirigida y el canal empleado 
+para informar, de modo tal que el mensaje sea efectivamente comprendido por el 
+consumidor. 
+ 
+RESPONSABILIDAD 
+CIVIL. 
+DAÑOS 
+Y 
+PERJUICIOS. 
+CONTRATOS 
+BANCARIOS. RESPONSABILIDAD DEL BANCO. Uso de plataformas digitales. 
+Deber de seguridad e información 
+ 
+La complejidad que entraña una plataforma digital, para satisfacer adecuadamente 
+el deber de brindar información cierta, clara y detallada al consumidor de servicios 
+financieros, exige -como mínimo- además de la puesta a disposición de una guía en 
+la página web de la entidad, una explicación completa y acabada de las condiciones 
+esenciales del bien o servicio; de ser necesario, a través de un canal de atención 
+presencial. Máxime cuando un uso incorrecto, como consecuencia del 
+incumplimiento de tal deber, importa un riesgo que coloca al consumidor en una 
+
+ 
+situación de vulnerabilidad de la cual se puedan valer terceros para perpetrar 
+maniobras delictivas. Cuando al consumidor se le ofrece un servicio digital, debe 
+ser proporcionado a través de un medio de fácil comprensión. Deben erradicarse 
+textos de condiciones generales extremadamente extensos y de lenguaje difícil. En 
+definitiva, el proveedor debe satisfacer -en paralelo- los deberes de seguridad e 
+información.  
+ 
+RESPONSABILIDAD 
+CIVIL. 
+DAÑOS 
+Y 
+PERJUICIOS. 
+CONTRATOS 
+BANCARIOS. RESPONSABILIDAD DEL BANCO. Canales de comunicación. 
+Redes sociales. Verificación de autenticidad. Deber de seguridad 
+ 
+Si la institución bancaria ofrece a sus clientes redes sociales como canales de 
+comunicación alternativos, tiene el deber de extremar medidas de seguridad para 
+que a los consumidores no les quepa ninguna duda de que el diálogo se realice 
+efectivamente con el perfil oficial de la entidad bancaria; tal como en una atención 
+presencial. A tal fin, no resulta suficiente la verificación de autenticidad de la cuenta 
+del banco mediante “tildes azules” ya que no todos los consumidores están 
+familiarizados con el entorno digital. Para satisfacer el deber de seguridad, 
+tratándose del perfil de una institución financiera, tiene que adicionar alguna otra 
+metodología de autenticación que la fortalezca y permita diferenciarlo de cuentas 
+fraudulentas. 
+ 
+RESPONSABILIDAD 
+CIVIL. 
+DAÑOS 
+Y 
+PERJUICIOS. 
+CONTRATOS 
+BANCARIOS. RESPONSABILIDAD DEL BANCO. Deber de seguridad. 
+Prevención de fraudes informáticos. Campañas de ciberseguridad 
+ 
+Las campañas de ciberseguridad implementadas por una entidad financiera sólo 
+pueden considerarse de carácter complementario a las medidas de seguridad que 
+debe adoptar para proteger al usuario de servicios financieros. Si bien contribuyen 
+a mitigar atentados contra la seguridad de usuarios en el ámbito digital, no tienen el 
+alcance necesario para comprender la totalidad de consumidores del sistema, de 
+distintas realidades y entornos sociales. Las medidas preventivas que adopte el 
+banco deben ser implementadas de modo tal que puedan ser comprendidas por 
+
+ 
+cualquier persona, sin distinción, y a través de un medio adecuado, que disipe dudas 
+sobre un eventual fraude o manipulación por parte de terceros. 
+ 
+DERECHO DEL CONSUMIDOR. DEBER DE TRATO DIGNO Y EQUITATIVO  
+ 
+El deber incorporado al art. 8° bis de la LDC y arts. 1097 y 1098 del CCC contiene 
+una garantía genérica de condiciones de atención y trato a consumidores y usuarios. 
+El trato digno comprende el respeto hacia el consumidor, que no lo coloque en 
+situaciones que colisionen con su dignidad; que antes, durante y después de la 
+contratación, se le brinde una atención responsable, seria, adecuada y 
+comprometida con sus intereses. Asimismo, el trato debe ser equitativo; es decir, 
+no sólo dispensado en garantía del principio de igualdad formal ante la ley, sino que 
+debe ponderar las distintas variables de los consumidores y usuarios. 
+ 
+DAÑO MORAL. RESPONSABILIDAD CONTRACTUAL. Criterio restrictivo. 
+RELACIÓN DE CONSUMO. Principio protectorio 
+ 
+El daño moral resarcible en materia contractual es aquel que nace de la frustración 
+de la expectativa razonable derivada de la contratación, en tanto dicha frustración 
+provoque un menoscabo espiritual que exceda la ansiedad o molestias propias de 
+las contingencias o dificultades ordinarias de la vida cotidiana. No es necesario que 
+quede afectado de alguna manera el proyecto de vida de una persona. Basta con 
+que exista un padecimiento espiritual, derivado de una actuación antijurídica que el 
+damnificado no está obligado a soportar y exceda meras molestias o inconvenientes 
+habituales derivados del incumplimiento contractual, para que se configure el 
+supuesto legal indemnizable previsto en el art. 1741 CCC y 40 de la LDC. 
+Tratándose de una relación de consumo, el criterio restrictivo que impera en la 
+materia debe ser atenuado. En tal caso, el análisis de los requisitos de procedencia 
+del daño moral y la interpretación normativa debe ser efectuada a la luz del principio 
+protectorio (art. 1094 CCC).

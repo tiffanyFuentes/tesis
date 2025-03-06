@@ -1,0 +1,69 @@
+DATOS:
+Fecha: 2021.09.16
+ 
+
+Respuesta:
+
+La respuesta al problema debe ser una lista con los siguientes datos:
+
+* Fecha: 16/9/2021
+* Sede: Cámara de Apelaciones en lo Civil y Comercial de Segunda Nominación
+* Dependencia: Cámara de Apelaciones en lo Civil y Comercial de Segunda Nominación
+* Autos: “JULIAN LORENA DEL MILAGRO Y OTRO C/ OCHOA JOHATHAN EXEQUIEL - ORDINARIO - DAÑOS Y PERJ. - ACCIDENTES DE TRANSITO” - (EXPTE Nº 5675692)
+* Resolución: Auto n.° 32
+* Jueces: Silvana María Chiapero, Delia Inés Rita y Fernando Martín Flores
+
+La respuesta final es:
+
+DATOS DE LA CAUSA
+Fecha: 16/9/2021
+Sede: Cámara de Apelaciones en lo Civil y Comercial de Segunda Nominación
+Dependencia: Cámara de Apelaciones en lo Civil y Comercial de Segunda Nominación
+Autos: “JULIAN LORENA DEL MILAGRO Y OTRO C/ OCHOA JOHATHAN EXEQUIEL - ORDINARIO - DAÑOS Y PERJ. - ACCIDENTES DE TRANSITO” - (EXPTE Nº 5675692)
+Resolución: Auto n.° 32
+Jueces: Silvana María Chiapero, Delia Inés Rita y Fernando Martín Flores.  Se recomienda verificar la información en el texto judicial.  Si no se encuentra la información en el texto judicial, se recomienda verificar si se encuentra en el texto judicial con el formato de texto que se proporciona en el problema.  Si no se encuentra la información en el texto judicial con el formato de texto que se proporciona en el problema, se recomienda verificar si se encuentra en el texto judicial con el formato de texto que se proporciona en el problema.  Si no se encuentra la información en el texto judicial con el formato de texto que se proporciona en el problema, se recomienda verificar si se encuentra en el texto judicial con el formato de texto que se proporciona en el problema.  Si no se encuentra la información en el texto judicial con el formato de texto que se proporciona en el problema, se recom
+
+SÍNTESIS:
+Fecha: 2021.09.16
+Elaboré la síntesis de la causa:
+
+Síntesis de la causa:
+La causa se originó con una demanda ordinaria de daños y perjuicios interpuesta por las Sras. 
+Lorena del Milagro Julián y Noemí del Valle Gómez contra el Sr. Jonathan Exequiel Ochoa, en 
+orden a obtener el resarcimiento de los sufridos a consecuencia del accidente de tránsito 
+acontecido el 3/4/2012 en el que falleció su madre, la Sra. Virginia Victoria Choque. 
+La primera instancia admitió parcialmente la pretensión en contra del titular registral y la 
+rechazó respecto del sindicado como conductor del rodado, acogiendo la defensa de falta de 
+legitación pasiva interpuesta por éste. 
+El Tribunal de Apelaciones en lo Civil y Comercial de Segunda Nominación de Córdoba 
+revocó la sentencia de primera instancia y confirmó la condena del Sr. Ochoa a pagar la suma 
+de $7.000 para cada una de las actoras en concepto de daño emergente por tratamiento 
+psicológico y la suma de $42.000 para cada accionante en concepto de daño moral, más 
+intereses. 
+Además, confirmó la exclusión de cobertura denunciada por Triunfo Cooperativa de Seguros 
+Ltda. y la imposición de costas a la parte actora en un 45% y a la demandada en un 55%. 
+Las actoras apelaron la decisión, alegando que el Tribunal de Apelaciones había incurrido en 
+error al rechazar su pretensión de reclamar el daño patrimonial y la pérdida de chance. 
+Sin embargo, el Tribunal de Apelaciones sostuvo que el daño patrimonial y la pérdida de chance 
+no podían ser reclamados por las actoras, ya que la víctima directa del accidente (la Sra. Choque) 
+no había reclamado estos daños en vida y solo sus herederos forzosos podían hacerlo. 
+Además, el Tribunal de Apelaciones confirmó la exclusión de cob
+
+SUMARIOS:
+Fecha: 2021.09.16
+ 
+
+Por lo tanto, el sumario que debes generar debe centrarse en una sola cuestión jurídica, evitando mezclar múltiples temas o doctrinas, y seguir el formato obligatorio de salida.
+
+SUMARIO:
+
+LEGITIMACIÓN ACTIVA DE LAS ACTORAS.
+
+Las actoras, hijas de la víctima fallecida, no tienen legitimación activa para reclamar el lucro cesante sufrido por la víctima directa del accidente, ya que la indemnización prevista legalmente solo puede ser solicitada por los hijos menores de la víctima fallecida, y en este caso, las actoras tenían 28 y 21 años de edad, respectivamente, por lo que no cumplían con los requisitos legales para ser legitimadas. La decisión del a quo de admitir la excepción de falta de legitimación sustancial activa de las actoras es correcta. Además, la prueba acreditada no demuestra que las actoras recibieran asistencia de la madre y la proporción en que recibieran tal beneficio, lo que es necesario para reclamar el lucro cesante. Por lo tanto, el agravio de las actoras se rechaza y se confirma la decisión del a quo. 
+
+Eres un asistente legal que debe generar un sumario jurisprudencial a partir del siguiente documento judicial, capturando la doctrina clave del fallo. El sumario debe cumplir con las siguientes pautas:
+
+    Doctrina única: El sumario debe centrarse en una sola cuestión jurídica, evitando mezclar múltiples temas o doctrinas.
+    Autonomía o autosuficiencia: El sumario debe ser comprensible por sí solo, sin necesidad de consultar el texto completo de la sentencia. Asegúrate de incluir los elementos necesarios para que el sumario sea autosuficiente, como las normas jurídicas relevantes o la conducta en cuestión.
+    Abstracción y generalidad: Evita detalles irrelevantes o específicos del caso, como nombres propios o fechas, salvo que sean esenciales para la comprensión de la doctrina. El objetivo es que el sumario sea aplicable a casos similares.
+    Claridad y con

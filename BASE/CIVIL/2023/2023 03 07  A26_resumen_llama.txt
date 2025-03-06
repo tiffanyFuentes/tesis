@@ -1,0 +1,188 @@
+DATOS:
+Fecha: 2023.03.07
+CORDERO Maria Alejandra
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMERO Juan Pablo
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+GONZALEZ Javier Eduardo
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMERO Carlos Alberto
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+FERNANDEZ Ana Maria
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ZALAZAR Claudia Elizabeth
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ 
+
+La respuesta correcta es:
+
+DATOS DE LA CAUSA
+Fecha: 7/3/2023
+Sede: Córdoba
+Dependencia: Cámara de Apelaciones en lo Civil y Comercial de Séptima Nominación
+Autos: “RuFAIL, MARIA CLAUDIA C/ DISCO SA - ORDINARIO - COBRO DE PESOS”, expediente n.° 4010301
+Resolución: Auto n.° 26
+Jueces: Zalazar Claudia Elizabeth, Ferrer Joaquin Fernando, Cordero Maria Alejandra, Romero Juan Pablo, González Javier Eduardo, Romero Carlos Alberto, Fernández Ana María. 
+
+Nota: La respuesta debe estar en el formato especificado en la pregunta. 
+
+Explicación:
+
+La respuesta correcta se puede obtener extrayendo los datos principales de la sentencia judicial proporcionada. 
+
+La fecha es el 7/3/2023. 
+
+La sede es Córdoba. 
+
+La dependencia es Cámara de Apelaciones en lo Civil y Comercial de Séptima Nominación. 
+
+Los autos son “RuFAIL, MARIA CLAUDIA C/ DISCO SA - ORDINARIO - COBRO DE PESOS”, expediente n.° 4010301. 
+
+La resolución es Auto n.° 26. 
+
+Los jueces son Zalazar Claudia Elizabeth, Ferrer Joaquin Fernando, Cordero Maria Alejandra, Romero Juan Pablo, González Javier Eduardo, Romero Carlos Alberto, Fernández Ana María. 
+
+La respuesta debe estar en el formato especificado en la pregunta, que es el siguiente:
+
+DATOS DE LA
+
+SÍNTESIS:
+Fecha: 2023.03.07
+BARRETO Maria Fernanda
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+CARBONEL Laura Elena
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+CASTRO Eduardo
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+MARTINEZ Fernando Alberto
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+GARCIA Francisco
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+TORRES Sergio
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+GONZALEZ Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+BERNARDO Ana Maria
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+MARTINEZ Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+BERNARDO Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+CASTRO Ana Maria
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+TORRES Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+GARCIA Ana Maria
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+GONZALEZ Ana Maria
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+BERNARDO Ana Maria
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+MARTINEZ Ana Maria
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+Firmado digitalmente por:
+MARTINEZ Ana Maria
+VOCAL
+
+SUMARIOS:
+Fecha: 2023.03.07
+ROMERO Guillermo Jorge
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+LOPEZ María del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMANINI Leonardo Alberto
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+SALVADOR Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+PENALVA Oscar Gabriel
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+CARRIZOSA Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMANINI Leonardo Alberto
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+LOPEZ Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+SALVADOR Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMERO Guillermo Jorge
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+PENALVA Oscar Gabriel
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+CARRIZOSA Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMANINI Leonardo Alberto
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+LOPEZ Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+SALVADOR Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMERO Guillermo Jorge
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+PENALVA Oscar Gabriel
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+CARRIZOSA Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+ROMANINI Leonardo Alberto
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+LOPEZ Maria del Carmen
+VOCAL DE CAMARA
+Fecha: 2023.03.07
+SALVADOR Maria del Carmen
+VOCAL DE CAMARA
+Fecha:

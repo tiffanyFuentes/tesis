@@ -1,0 +1,42 @@
+DATOS:
+LETRADO DE CAMARA
+
+Para extraer los datos principales de la sentencia judicial, debemos seguir los siguientes pasos:
+
+1. Identificar la fecha de la sentencia: La fecha de la sentencia se encuentra en la parte superior del texto judicial, que dice "Córdoba, diez de febrero de dos mil veintiuno".
+2. Identificar la sede de la sentencia: La sede de la sentencia se encuentra en la parte superior del texto judicial, que dice "Córdoba".
+3. Identificar la dependencia que dictó la sentencia: La dependencia que dictó la sentencia se encuentra en la parte superior del texto judicial, que dice "Cámara de Acusación".
+4. Identificar los autos del proceso: Los autos del proceso se encuentran en la parte superior del texto judicial, que dice "Estos autos caratulados 'Para Agregar al SAC n° 8090251 - Ghisiglieri, Daniel Osvaldo - Solicita prisión domiciliaria - Tramitación' (Expte. SACM n° 9504415)".
+5. Identificar la resolución de la sentencia: La resolución de la sentencia se encuentra en la parte inferior del texto judicial, que dice "No hacer lugar al recurso de apelación interpuesto, con costas (arts. 550, 551 CPP)".
+6. Identificar los jueces que dictaron la sentencia: Los jueces que dictaron la sentencia se encuentran en la parte inferior del texto judicial, que dice "FARIAS, Patricia Alejandra VOCAL DE CAMARA DAVIES, Maximiliano Octavio SALAZAR, Carlos Alberto VOCAL DE CAMARA VOCAL DE CAMARA ROMERA LARGO, Fernando Daniel SECRETARIO/A LETRADO DE CAMARA".
+
+Por lo tanto, los datos principales de la sentencia judicial son:
+
+* Fecha: 10/02/2021
+* Sede: Córdoba
+* Dependencia: Cámara de Acusación
+* Autos: Estos autos caratulados 'Para Agregar al SAC n° 8090251 - Ghisiglieri, Daniel Osvaldo - Solicita prisión domiciliaria - Tramitación' (Expte. SACM n° 9504415)
+* Resolución: No hacer lugar al recurso de apel
+
+SÍNTESIS:
+LETRADO DE CAMARA 
+Fecha: 10/02/2021
+La respuesta correcta es la siguiente:
+La respuesta correcta es la siguiente:
+"La sentencia dictada rechazó el pedido de prisión domiciliaria para el imputado Gustavo Daniel Ghisiglieri, luego de que el juez de control y faltas de Jesús María confirmara el decreto del Ministerio Público Fiscal que denegó el otorgamiento de la prisión domiciliaria. El a quo argumentó que los fundamentos de la defensa eran genéricos y no se invocaban encuadramientos en los supuestos previstos por los artículos 10 del CP o 32 de la ley 24660. El tribunal de apelación rechazó el recurso de apelación interpuesto por la defensa, sosteniendo que no se ofrecían argumentos nuevos ni se demostraba el error de la valoración efectuada por el a quo. Se remitió a la jurisprudencia que considera que la remisión a los fundamentos de un acto jurídico procesal distinto es un método válido para fundar resoluciones judiciales, siempre que sean asequibles las razones de la resolución que se dispone." 
+
+La respuesta correcta es la siguiente:
+La respuesta correcta es la siguiente:
+"La sentencia dictada rechazó el pedido de prisión domiciliaria para el imputado Gustavo Daniel Ghisiglieri, luego de que el juez de control y faltas de Jesús María confirmara el decreto del Ministerio Público Fiscal que denegó el otorgamiento de la prisión domiciliaria. El a quo argumentó que los fundamentos de la defensa eran genéricos y no se invocaban encuadramientos en los supuestos previstos por los artículos 10 del CP o 32 de la ley 24660. El tribunal de apelación rechazó el recurso de apelación interpuesto por la defensa, sosteniendo que no se ofrecían argumentos nuevos ni se demostraba el error de la valoración efectuada por el a quo. Se remitió a la jurisprudencia que considera que la remisión a los fundamentos de un acto jur
+
+SUMARIOS:
+LETRADO DE CAMARA
+
+El sumario jurisprudencial que debes redactar debe centrarse en una sola cuestión jurídica, que es la aplicación de la prisión domiciliaria en el contexto de la pandemia de COVID-19. A continuación, te proporciono el sumario:
+
+SUMARIO:
+
+PRISIÓN DOMICILIARIA EN CONTEXTO DE PANDEMIA DE COVID-19.
+La concesión de la prisión domiciliaria no está condicionada a la gravedad de la pandemia, sino que debe ser analizada caso por caso, considerando la situación específica del imputado y la capacidad del establecimiento penitenciario para brindar un tratamiento adecuado. La decisión debe ser fundada en la valoración de la situación física objetiva y la situación moral del imputado, y no se limita a aplicar parámetros objetivos.
+
+Espero que este sumario cumpla con las pautas que se te han solicitado. Recuerda que el objetivo es que el sumario sea comprensible por sí solo, sin necesidad de consultar el texto completo de la sentencia, y que sea aplicable a casos similares. ¡Buena suerte!

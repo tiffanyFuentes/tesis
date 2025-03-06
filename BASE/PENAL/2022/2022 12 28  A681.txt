@@ -1,0 +1,495 @@
+Protocolo de Autos
+Nº Resolución: 681
+Año: 2022  Tomo: 10  Folio: 2964-2973
+
+ 
+ 
+EXPEDIENTE SAC: 9204954 - ANTECEDENTES REMITIDOS A LA FISCALIA DE INSTRUCCION ESPECIALIZADA EN
+CIBERCRIMEN POR LA POSIBLE COMISION DE UN HECHO DELICTIVO PERSEGUIBLE DE OFICIO - ACTUACIONES
+LABRADAS 
+PROTOCOLO DE AUTOS. NÚMERO: 681 DEL 28/12/2022  
+ 
+ 
+AUTO NÚMERO: SEISCIENTOS OCHENTA Y UNO. 
+Córdoba, veintiocho de diciembre de dos mil veintidós. 
+VISTOS: Estos autos caratulados “Antecedentes remitidos a la Fiscalía de
+Instrucción Especializada en Cibercrimen por posible comisión de un hecho
+delictivo perseguible de oficio” (Expte. “A”-18/2022, SACM n° 9204954), que se
+tramitan en esta Cámara de Acusación con motivo del recurso de apelación interpuesto
+por el Dr. Gerard Gramática Bosch en carácter de apoderado del querellante particular,
+Jorge C. Airaudo, contra el Auto nº 126 del 10/5/2022 dictado por el Juzgado de
+Control Siete, que dispone “…I) No hacer lugar a la oposición presentada por Gerard
+Gramática Bosch (apoderado del querellante particular, Jorge C. Airaudo) y, en
+consecuencia, confirmar el archivo de las actuaciones que dispuso el Fiscal de
+Instrucción de Cibercrimen (art. 334 inc. 4° del CPP)...”.  
+DE LOS QUE RESULTA: Que los vocales de esta Cámara de Acusación, reunidos
+con el objeto de dictar resolución en estos autos, disponen que emitirán sus v otos en el
+siguiente orden: 1º) Maximiliano Octavio Davies; 2°) Carlos Alberto Salazar; 3°)
+Patricia Alejandra Farías. 
+CAMARA DE ACUSACION
+
+Y CONSIDERANDO: A) Que el vocal Maximiliano Octavio Davies dijo: 
+I) La defensa técnica del querellante particular Jorge Airaudo, en la interposición del
+recurso manifestó los siguientes agravios: a) el archivo es prematuro, pues existen
+medidas probatorias pendientes de producción; b) la omisión en la fundamentación de
+los planteos relativos a identificar las medidas de seguridad del servidor objeto de
+encriptación al momento del hecho, y el procedimiento de copiado de la información,
+para determinar posibles autores y si hubo imprudencia o negligencia; c) la
+fundamentación dogmática y aparente con relación al rechazo de prueba testifical e
+instrumental; d) y respecto de la innecesaridad de realizar una pericia del disco duro
+externo que la fiscalía utilizó para copiar el contenido del servidor. Hizo reservas de
+casación y del caso federal.  
+II) El juez de control confirmó el archivo las actuaciones por entender que se ha
+acreditado la existencia del hecho (calificado legalmente como extorsión y daño
+informático, arts. 168, 183 segundo párrafo y 55 del CP), pero que no se ha podido
+individualizar a sus autores (CPP, art. 334 inc. 4°, 1° supuesto).  
+En primer lugar, reseñó diversas circunstancias que consideró de interés: En el
+expediente “Airaudo, Jorge C. y otros -p.ss.aa. de asociación ilícita, etc.-” (SAC n°
+7053735), el imputado Jorge C. Airaudo autorizó a la fiscalía a acceder al servidor de
+SATSA ubicado en las oficinas de Antigua Cervecería Córdoba (ACC). Relevó del
+secreto profesional a Christian Amaya (técnico informático de SATSA) y a Diego
+Ledesma (empleado de soporte técnico informático de SATSA) (fs. 2). 
+El 3/7/2019, la instructora solicitó al juzgado la apertura y el acceso remoto al servidor
+de SATSA, a fin de recabar información útil para la investigación, por parte de
+personal de la fiscalía y de la Sección Informática Forense de Policía Judicial (fs. 2/5).  
+La fiscalía comenzó a acceder de manera remota al servidor y al software contable
+Calipso a tales efectos (actas de apertura de agosto, septiembre y octubre de 2019, fs.
+
+6/10). El acceso al servidor se realizó con colaboración de Amaya, y el acceso al
+software contable Calipso se hizo con colaboración de G. Estévez Buteler (miembro
+del Cuerpo de Pericias y Auditorias Contables y Financieras del Poder Judicial).  
+El 7/10/2019 Amaya compareció a la fiscalía y retiró un “dispositivo de
+almacenamiento externo marca Seagate (…) para resguardar allí el contenido de los
+archivos del servidor ubicado en las oficinas de ACC, para luego aportarlo a la
+fiscalía” (fs. 55). El 10/10/2019, devolvió dicho dispositivo a la instrucción y explicó
+que “procedió a realizar el respaldo de los archivos contenidos en el file server que se
+encuentra en la oficina de ACC (…) utilizó un programa Sync back up pro, dando
+inicio el día 8 de octubre a las 19.10 hasta el día 9 de octubre a las 17.04 en que se
+finalizó el respaldo” (fs. 56).   
+El 9/12/2019, la fiscalía le informó a Amaya que no podía acceder al servidor y que
+debía constatar el problema. Acto seguido, se apersonó en las oficinas de ACC y
+constató que “el router que daba conexión a internet se encontraba sin funcionamiento
+(…) colocó un nuevo router. Al ingresar al escritorio remoto, le surgió un aviso de
+encriptación de todos los archivos contenidos en el servidor (…) la encriptación
+modificó todos los nombres de los archivos (…) tiene entendido que este tipo de virus
+ingresan por IP elegidas por el hacker al azar. A fin de evitar la propagación de la
+encriptación a otros equipos que se conecten por vía remota, anuló el acceso remoto
+que había creado para la utilización de la fiscalía” (declaración, fs. 11, y aviso de
+encriptación, fs. 12).  
+En mayo de 2020, la Fiscalía de 27° Nominación remitió actuaciones a la Fiscalía de
+Cibercrimen a fin de que investigue la posible comisión de maniobras delictivas.
+Dicha fiscalía, el 7/7/2020 ordenó el registro de las oficinas de ACC y solicitó orden
+de allanamiento para ubicar el servidor y proceder a su apertura con el fin de relevar
+información vinculada al código malicioso ransomware. Ello tuvo lugar el 8/7/2020 y
+
+permitió la toma de muestras del malware, la realización de capturas de pantalla, entre
+otras cuestiones (fs. 21/22). Luego, se incorporó un elemento probatorio determinante
+para la investigación: el informe técnico informático n° 3255937 confeccionado por el
+técnico Juan J. Liendo de la Unidad de Internet Forense de Policía Judicial. La primera
+parte del informe describe la situación en la que se encontraba el servidor al momento
+de ser analizada: “...al ingresar (…) se observa una ventana emergente que reza All
+File Encrypted – RSA 1024, pudiendo identificar en su contenido las direcciones de
+correo electrónico cyb3rcrypt@protonmail.com y cybercrypt@cock.li, el ID de
+infección n° E8DB989F y una guía para recuperar los archivos encriptados”. Se
+corroboró que el código malicioso se encontraba activo al momento del relevamiento y
+que continuaba infectado todos los archivos que pudiera alcanzar ya sea, almacenados
+localmente o accesibles a través de recursos o unidades de red que se encontraran a su
+alcance. El técnico informó que al momento del relevamiento los dispositivos no
+contaban con sistema antivirus ni firewall y que, el día 20/10/2019, se instaló en los
+servidores virtuales un programa denominado ‘Process Hacker 2.39 (r124)’”.
+Finalmente, informó que no pudo extraer ni resguardar los “registros de sistema”
+(logs) de los servidores virtuales en función de que, “todo archivo que era manipulado
+se encriptaba de manera automática, al igual que cualquier recurso (pendrive, disco
+rígido) utilizado como medio de almacenamiento o alojamiento de información”. El
+técnico informático precisó lo siguiente: El código malicioso utilizado para encriptar la
+información “es un ransomware de la familia Dharma” y, en la actualidad, no se
+conoce ningún método para descifrar los archivos de esta variante. No se pudo
+establecer el momento en que ingresó al dispositivo. No obstante, se logró verificar
+que la “infección principal se habría iniciado el día 20/10/2019 alrededor de las 23 pm,
+finalizando el día 21/11/2019 alrededor de las 3 am”. Paralelamente, se indicó que este
+tipo de virus tienen la capacidad de “invernar”, pueden pasar un tiempo no definido en
+
+el dispositivo huésped recopilando información hasta que decide llevar adelante la
+infección. El 20/10/2019 (fecha en que comenzó la infección) se instaló en los
+servidores el programa denominado “Process Hacker 2.39 (R124)”. Se trata de una
+herramienta de código abierto diseñada para monitorear procesos y servicios de
+sistema. Actúa de manera similar al administrador de tareas de Windows pero, cuenta
+con mayor cantidad de funciones (fs. 102 vta.). No se pudo determinar cómo ingresó el
+código malicioso al dispositivo. Acto seguido, se explicó que “...los métodos más
+comunes de ingreso son: de manera externa, a través de puerto de escritorio remoto
+(RDP); y de manera interna a través de enlaces de descarga o archivos enviados por
+correo electrónico”. No se logró obtener información relacionada a la IP utilizada por
+los autores del hecho, ni la IP del servidor al cual el virus enviaba los datos
+relacionados a la infección.  
+En la nota de rescate, surgen los datos de dos correos electrónicos, a saber: i.
+cyb3rcrypt@protonmail.com. El dominio de este correo pertenece a Proton
+Technologies AG. Es una empresa con sede en Ginebra-Suiza y se dedica,
+principalmente, a brindar servicio de correo electrónico cifrado y anónimo. No
+requiere información para crear cuentas ni recopila registros de direcciones IP que
+permitan vincularlos con los correos electrónicos (fs. 100 vta.). ii. cybercrypt@cock.li
+. El dominio de este correo es operado por Ovo Systems Ltd. en Seychelles. Esta
+empresa se dedica a brindar soluciones de acceso a direcciones profesionales de correo
+electrónico y XMPP y, a su vez, permite el registro y el uso con TOR (The Onion
+Router) y otros servicios de privacidad (servidores proxy, VPN).  
+Respecto a los dominios de ambos correos electrónicos, el buscador web Google
+advirtió que se encuentran vinculados a la actividad delictiva relacionada con los virus
+tipo ransomware(100 vta. y 102).  
+En definitiva, este informe aportó información vinculada con el tipo de código
+
+malicioso que fue utilizado, la fecha en la que habría ocurrido la infección y los
+correos electrónicos que figuraban en el pedido de rescate de la información. No
+obstante, indicó que no había sido posible establecer ni el momento exacto en que
+ingresó al dispositivo ni la manera en que dicho ingreso habría ocurrido. Pese a ello, el
+fiscal de cibercrimen adoptó medidas adicionales en pos de lograr identificar a los
+autores de la maniobra delictiva.  
+El 10/5/2021, ofició a Interpol Suiza a fin de recabar información vinculada con la
+empresa Proton Technologies, con la dirección de email cyb3rcrypt@protonmail.com
+y con los IPs de creación y conexión (fs. 165/191). Se obtuvo la siguiente información:
+“...de acuerdo con la legislación suiza, Proton Technologies se considera un proveedor
+de servicios de comunicación derivados (…) no están obligados a almacenar datos
+específicos de sus clientes (…) Proton Technologies almacena muy pocos datos (fecha
+y hora de registro, dirección de IP utilizada para el registro si está disponible,
+dirección de correo electrónico para la recuperación si está disponible). A
+continuación encontrará la respuesta de Proton Technologies relacionada con su
+solicitud: cyb3rcrypt@protonmail.com. Inicio del servicio: 7.8.2019 (…) Fin de
+servicio: 28/4/2020 (…) la dirección de correo cyb3rcrypt@protonmail.com es
+conocida en nuestra base de datos (…) fue mencionada en una solicitud de Europol
+UK el 10/1/2020 relacionada con un caso de ransomware” (fs. 185 y 187). No obstante
+ello, Interpol Manchester informó que, conforme sus registros, dicho correo
+electrónico no estaba vinculado con denuncias de ataques de ransomwareen el Reino
+Unido (fs. 228). Sobre Ovo Systems Ltd. (empresa que operaba el dominio @cock.li),
+la instrucción explicó que había oficiado a fin de solicitarle información, pero que no
+había obtenido respuesta (oficio del 7/5/2021, fs. 174). Sobre dicha situación, la
+instrucción explicó que “esto puede obedecer a que Ovo Systems Ltd. se encuentra
+radicada en Seychelles, país que no sólo ha sido incluido por la Unión Europea, como
+
+uno de los territorios no cooperadores a efectos fiscales (entiéndase como paraíso
+fiscal y que por ende no brinda información), sino que tampoco ha suscripto el
+Convenio de Cibercrimen de Budapest del año 2001 (ETS 185), ni existe ningún
+convenio bilateral en materia penal entre Argentina y Seychelles” (fs. 223). Todas
+estas medidas dan cuenta que, pese a los esfuerzos de la instrucción, no ha sido posible
+identificar a las personas que habrían cometido las maniobras delictivas que se
+investigan. Destacó que a fin de satisfacer las pretensiones del querellante particular,
+el fiscal receptó diversas declaraciones testificales, a saber: Christian Amaya, Diego
+Ledesma, Zaida Tavip (prestó funciones en la parte contable de SATSA) y Florencia
+Rivera (administradora de SATSA). En el caso de Amaya, su declaración fue
+fundamentalmente descriptiva. Ilustró sobre la historia de los servidores de SATSA,
+sobre las personas que tenían acceso a dicho servidor (Florencia Rivera, Jorge
+Airaudo, dos abogadas que lo acompañaban y, con posterioridad, la Fiscalía de
+Instrucción de 27° Nominación), y sobre cómo llegó a conocer de la encriptación de
+los archivos (fs. 151/154). Nada aportó a fin de identificar a los autores de los hechos
+que se investigan. Luego, prestó declaración Diego Ledesma. Dijo que “en cuanto al
+acceso de los servidores (…) sabe que accedía Florencia Rivera y cree (sin poder
+precisarlo) Gabriel Barbero, Airaudo y Odeto (una de las abogadas de Airaudo) (…)
+en lo que respecta al ransomware (…) tomó conocimiento (…) a través de una
+publicación en el periódico La Voz del Interior (…) no tiene conocimiento sobre el
+ransomware que afectó los servidores de Euromayor, así como tampoco conoce en
+general sobre este tipo de ataques debido a que no se dedica al área de seguridad” (fs.
+163/164). Tavip nada pudo aportar para la investigación. Dijo que estaba trabajando en
+Conci Carpinella cuando se enteró que en los servidores de la empresa Euromayor
+“había ingresado un ransomware sin tener la más absoluta idea de qué significa eso
+(…) durante el tiempo que estuvo en SATSA, tuvo acceso al servidor así como
+
+también a un correo corporativo, a través de un usuario y contraseña que siempre era
+brindado por Cristian Amaya (…) a estos servidores tenían acceso todos los
+empleados de la empresa, pero seccionados cada uno por su área (…) en cuanto al
+ransomware en particular, desconoce cómo funciona este tipo de virus (…) ha
+escuchado que se pide un rescate en algunas ocasiones, pero tampoco sabe a ciencia
+cierta cómo es esa operatoria” (fs. 197/198).  
+Finalmente, Florencia Rivera explicó que “...a dichos servidores tenían acceso,
+físicamente solamente Cristian Amaya, pero virtualmente cada uno tenía su notebook
+(…) mediante un usuario y contraseña (…) luego de la mudanza a la sede de Antigua
+Cervecería (…) los servidores quedaron a la vista y a la mano de todos, al punto de
+que pasaba por enfrente de ellos todos los días y hasta podía apagarlos si quería. Que
+luego de que se suscitara toda la causa penal (…) el servidor continuó funcionando de
+manera normal (en cuanto a los accesos) por varios meses (…) pudo acceder hasta
+fines del año 2019 (…) al querer acceder observó una alerta que avisaba que el
+servidor estaba apagado o fuera de servicio (…) no le llamó la atención (…) creía que
+se había apagado (…) o que se había roto (…) a los tres o cuatro días de haber
+observado el cartel de que no podía acceder a los servidores, es que la llama Jorge
+Airaudo avisándole que habían hackeado el servidor” (fs. 207/209). 
+Tal como lo explicó la instrucción, ninguna de estas personas brindó datos de interés
+para identificar a los autores de la maniobra delictiva. Por el contrario, sólo aportaron
+información vinculada a cómo funcionaba el servidor, quiénes tenían acceso y qué
+información se manejaba. Ninguna utilidad podría reportarle a la investigación contar
+con los testimonios de los interventores judiciales de las empresas (Giménez, Hiruela y
+Telizcan), de los síndicos de la liquidación del fideicomiso (Perona, Villagra y Varela
+Quetglas) ni del vecino del emprendimiento (Gabriel Nicola). Todas estas personas, al
+igual que los anteriores testigos, podrían ilustrar sobre el funcionamiento del servidor,
+
+sobre la información que contenía, sobre las personas que tenía contacto con él, entre
+otras cuestiones. Pero, nada podrían aportar, en concreto, sobre la encriptación de los
+archivos del servidor (objeto de la presente investigación). En lo que atañe a Nicola y
+las críticas del querellante en cuanto que poseía la llave donde estaba el servidor, esta
+situación era conocida y tolerada por las autoridades de las empresas involucradas. El
+propio testigo Amaya refirió que “...los que tenían llave de acceso (…) eran los
+mismos vecinos de los edificios. Que tiene entendido que les dieron una llave porque
+una vez encontraron las instalaciones abiertas y, ante el temor que podría ocurrir un
+hecho de inseguridad, decidieron colocarle a esa oficina un candado y una cadena” (fs.
+153). Sumado a ello, consta que Nicola era miembro del consejo de propietarios y que,
+en el espacio físico donde estaba el servidor, estaban las cajas de luz del edificio (fs.
+237). 
+Otro tanto ocurre con la propuesta del querellante de peritar el disco duro externo que
+la fiscalía utilizó para copiar el contenido del servidor. Al respecto, la Fiscalía de
+Instrucción de 27° Nominación informó que el disco fue proporcionado por
+Informática Forense de Policía Judicial, que viene siendo utilizado por personal de la
+instrucción a fin de relevar su contenido, que se encuentra colocado en una
+computadora del Poder Judicial (en la CPU asignada a la secretaría de la fiscalía) y
+que el sistema antivirus no había detectado ninguna anomalía en el contenido de dicho
+disco (fs. 237). El informe pericial informático dio cuenta de la imposibilidad de
+conocer tanto cuándo exactamente, cómo y por quién ingresó el virus al servidor en
+cuestión. En consecuencia, las tareas probatorias propuestas por el querellante no
+harían variar las conclusiones a las que llegó la Fiscalía de Cibercrimen. 
+III)  Concedido el recurso por el juez de control, y elevados los autos a este tribunal,
+se corrió vista al Sr. Fiscal de Cámara, quien mantuvo la vocación recursiva del
+querellante, con los agravios invocados por éste (30/5/2022). Efectuado el
+
+emplazamiento de ley a las partes (1/6/2022), el impugnante presentó los fundamentos
+del recurso (14/6/2022), en término de ley (CPP, art. 465). 
+IV) Al tiempo de informar, el querellante entendió que el archivo resulta prematuro,
+ya que existen medidas probatorias pendientes de producción que podrían identificar el
+método de introducción del encriptación del servidor y determinar eventuales
+responsabilidades, por acción u omisión de terceros, coautores u otros partícipes.
+Indicó medidas requeridas, pero no incorporadas hasta el dictado de la resolución, y
+otras pruebas propuestas, a las que no se les hizo lugar. Sobre las primeras indicó un
+oficio dirigido a Ovo Systems Ltd., requiriendo acceso a datos básicos del suscriptor y
+registro de inicio de sesión de una cuenta. Dijo que nada impide reiterar dicha
+solicitud, máxime cuando no se entiende el apuro por archivar la causa. Se refirió a un
+oficio del 18/5/2021 librado a INTERPOL para requerir información sobre un correo
+electrónico, sobre lo cual el juez no se ha expedido. La respuesta puede brindar mayor
+información sobre la individualización de los IP de los autores del hecho, ya que de la
+respuesta obrante a fs. 185 surge que, si bien Proton Technologies almacena muy
+pocos datos, entre ellos se puede encontrar el de la dirección IP utilizada para el
+registro, es decir uno de los objetos de la investigación. Sobre las segundas medidas,
+expresó que el 8/6/2021 propuso que se reciba declaración a Hugo Giménez, Lourdes
+Hiruela, Rosa Teliczan, Gabriel Nicola, a los síndicos Perona, Villagra y Varela
+Quetgla, y librar oficios a la Fiscalía de 27° Nominación y al proveedor del servidor y
+del sistema Calypso. Señaló que el juez omitió expedirse sobre las pruebas
+informativas, mientras que respecto de las testimoniales entendió que ninguna utilidad
+podrían reportar, lo que a juicio del querellante resultan manifestaciones dogmáticas y
+aparentes. Razonó que, si según el informe de la Unidad de Internet Forense, no se
+pudo determinar los IP de conexión de los atacantes, entonces cobra aún más
+relevancia la necesidad de oficiar al host del servidor, dado que si éste posee un
+
+registro de ingresos, se podría identificar la IP que actuó el día de la encriptación (y si
+esta fue introducida por un método externo, interno o físico), y a quién pertenecía ese
+IP al momento de encriptación. Afirmó que es correcto que las declaraciones
+testimoniales inevitablemente versarían sobre el contenido de la información, pero no
+es menos cierto que a través de ellos se podrían determinar eventuales
+responsabilidades o de copias de la información contenida en el servidor.      
+El segundo agravio radica en la necesidad de identificar las medidas de seguridad del
+servidor y el procedimiento de copiado de la información contenida en él, punto
+neurálgico de la investigación, a partir de lo cual se podría determinar la existencia de
+los autores del hecho, y si existieron personas cuya imprudencia o negligencia hayan
+facilitado su comisión. Según explicó, la fiscalía realizaba sus relevamientos por vía
+del acceso remoto, y el servidor físico se encontraba en funcionamiento en la sede la
+ACC, sin adoptar ningún tipo de resguardo o medida de seguridad tendiente a su
+protección, hasta que el 2 de octubre se decidió realizar un back up de manera remota,
+el que no se pudo completar al advertirse la ventana emergente que arrojaba error.
+Luego de relatar diversas circunstancias relativas al hecho, concluyó que de haberse
+adoptado las medidas de seguridad correspondientes probablemente el hecho no se
+hubiera producido, lo que a su juicio se puede apreciar del acta de allanamiento y
+registro llevado a cabo (cuyo contenido transcribió). Manifestó que no se ordenó el
+caso traslado o depósito judicial del servidor, ni se adoptaron medidas de resguardo en
+la sede de Antigua Cervecería, lo único que se hizo fue colocar una cadena con
+candado en las puertas de ingreso de la oficina, cuya llave la tenía un residente de la
+torre uno del complejo, quien abría las puertas de la oficina a quien lo solicitase.
+Advirtió lo mismo con respecto al procedimiento de copiado de los datos del servidor,
+atento a la ausencia de individualización de número de serie del disco externo, de
+acompañantes que constaten el copiado de los archivos o de un cotejo del contenido al
+
+producirse su entrega.  
+En tercer lugar, indicó que lo agravia el fundamento dogmático respecto de que
+ninguna utilidad podrían reportar los testimonios ofrecidos, y la afirmación de que
+“esta situación era conocida y tolerada por las autoridades de las empresas
+involucradas”. A su juicio, dichas medidas permitirían determinar responsabilidades
+de quienes podrían haber facilitado la encriptación. Afirmó que el reproche formulado
+no tiene sustento atento a que Airaudo se encontraba privado de su libertad e
+imposibilitado físicamente de efectuar control alguno.  
+Por último, consideró dogmático el rechazo de realizar una pericia sobre el disco duro
+externo que la fiscalía utilizó para copiar el contenido del servidor, porque según el
+certificado de la fiscalía el sistema antivirus no había detectado anomalía alguna.
+Advirtió que no se pudo determinar si el virus en cuestión fue introducido física o
+remotamente, ni si fue por vía interna o externa. Por ello, resulta de importancia
+identificar cuál fue el método de ingreso, ya que si fue mediante una conexión de un
+dispositivo externo al servidor, la óptica de responsabilidad se reduce aún más, siendo
+accesible a la investigación deslindar eventuales responsabilidades. Al respecto,
+agregó que las fechas de la infección serían los días 20 y 21 de octubre de 2019, 9 y 16
+de diciembre de 2019, fechas coincidentes con los momentos de la copia del servidor y
+el cambio de router. Por ello resulta oportuno realizar la pericia sobre el disco externo
+con control de parte. Dijo que no resulta suficiente una certificación de los dichos del
+personal de la fiscalía, que ninguna especialización tiene en materia informática. Por
+todo ello, expresó que se debe profundizar la investigación, no sólo de la hipótesis de
+encriptación y pedido de pago, sino también sobre la omisión de adoptar las medidas
+de seguridad para resguardar el servidor.Mantuvo las reservas de casación y del caso
+federal.  
+V) Con sustento en el análisis pormenorizado de las constancias de autos anticipo la
+
+conclusión de que corresponde confirmar el auto apelado. Con costas (CPP, arts. 550 y
+551).  
+En efecto, el apelante no brinda ningún argumento que demuestre el error de la
+valoración efectuada por magistrado de garantías, sino que se limita a realizar una
+serie de manifestaciones que indica su propio punto de vista al respecto, pero que de
+ninguna manera pone en crisis la argumentación del juez de control, la cual, por lo
+demás, resulta correcta, pues constituye una derivación razonable tanto de las
+constancias de autos como del derecho aplicable, razón por la cual la comparto en su
+integridad y me remito a ella en homenaje a la brevedad. 
+La remisión a los fundamentos de un acto jurídico procesal distinto resulta un método
+válido para fundar resoluciones judiciales siempre que, como sucede en este caso, sean
+asequibles las razones de la resolución que se dispone (conf. CSJN: “Macasa”, fallos
+319:308; TSJ Sala Penal “Rivero” S. 33 del 9/11/84, “González” S. 90 del 16/10/02,
+“Whitehead” S. 76 del 30/4/08 y “Palau o Palou” S. 10 del 26/5/11 de esta Cámara de
+Acusación, entre otras), causa por la cual, tanto lo realizado conforme a esta
+metodología por el a quo primero como por esta alzada ahora, es aceptado legal y
+jurisprudencialmente de manera pacífica. 
+Se observa, además, que el impugnante se ha limitado a reproducir por ante esta alzada
+los mismos fundamentos a los que oportunamente expresara en su escrito de oposición
+a la resolución del ministerio público. Pues bien, dichos fundamentos ya han sido
+considerados por el juez de control –como queda claro en la resolución impugnada–, y
+han recibido por lo tanto una respuesta concreta por parte de la jurisdicción, la que
+como ya se dijo, se considera acertada. 
+Es verdad que, con el argumento de que un tribunal superior en jerarquía puede valorar
+de distinta manera el mismo razonamiento expresado por el impugnante ante un
+inferior, bien puede fundarse válidamente la pretensión de que nada impide que se
+
+solicite en esta sede la revisión de una resolución anterior en función de argumentos
+impugnativos ya utilizados. De allí que de ninguna manera debe entenderse que este
+tribunal pretende instituir a la novedad del argumento como una suerte de requisito
+formal de admisibilidad de un recurso de apelación. Simplemente se aduce que, en lo
+que respecta al acogimiento sustancial de un recurso ante esta sede, la experiencia
+indica que, en los hechos, si el apelante no ofrece nuevos argumentos, sólo en casos
+excepcionales resultará factible disentir desde esta alzada con lo ya resuelto al respecto
+por tribunales que, como sucede con los juzgados de control, han tenido oportunidad
+de revisar minuciosamente toda la prueba colectada en autos.  
+Es por eso que, salvo supuestos de error en la valoración del inferior –lo cual no
+sucede en el caso analizado–, la ausencia de argumentos sustancialmente nuevos en el
+recurso de apelación conduce, por regla, a su rechazo en esta sede, que es lo que de
+hecho corresponde que suceda en este caso. En tal sentido, no basta que el recurrente
+simplemente exprese, formalmente, que sus argumentos son nuevos, sino que dicha
+novedad debe poder inferir objetivamente y en términos sustanciales del contraste
+entre las impugnaciones interpuestas, y ello es precisamente lo que no es posible
+concluir aquí. Pero al margen de ello, y como ya se adelantó, lo decisivo es que, más
+allá de ser sustancialmente nuevo, el argumento del recurso debe tener la eficacia
+señalada para lograr demostrar la equivocación de la a quo, y no es ello lo que ocurre
+en el presente caso.  
+De acuerdo a lo precisado por el fiscal, el hecho objeto de esta investigación es la
+exigencia extorsiva de dinero para brindar una clave que permita descifrar archivos de
+la empresa, que fueron cifrados a través de un código malicioso de los llamados
+ransomware.  
+Ese acontecimiento ha sido calificado jurídicamente en las categorías penales de
+extorsión en concurso material con daño informático (CP, arts. 68, 183, 2° párrafo y
+
+55). 
+A modo de síntesis –dado que los detalles se encuentran plasmados en los
+fundamentos del juez de control y en la resolución del fiscal confirmada por
+magistrado–,  el informe técnico informático arrojó las siguientes conclusiones: a) El
+código malicioso utilizado para encriptar la información es un ransomware de la
+familia Dharmasobre el que en la actualidad no se conoce ningún método para
+descifrar los archivos de esa variante: b) No se pudo establecer el momento en que
+ingresó al dispositivo. Se indicó un período de infección principal, entre el 20 y 21 de
+octubre de 2019, aunque algunos archivos fueron encriptados los días 9/12/2019 y
+16/12/2019, por su capacidad de “invernar”; lo que implica que puede pasar un tiempo
+determinado dentro del dispositivo huésped sin que ello afecte su funcionamiento; c)
+No se pudo determinar cómo ingresó el código malicioso al dispositivo; d) No se logró
+obtener información relacionada con la IP utilizada por los autores del hecho, ni la IP
+del servidor al cual el virus enviaba los datos relacionados con la infección.   
+Con mayor detalle, se brindaron datos de interés relativos a los dos correos
+electrónicos utilizados para negociar el rescate: a) dominio @protonmail.com, el que
+según lo informado corresponde a un servicio de correo electrónico cifrado y anónimo,
+que no requiere información para crear nuevas cuentas, ni recopila registros de
+direcciones IP que puedan vincularse a las cuentas. Según el fiscal, ello implica que no
+cuentan con información que permita vincular a los creadores o usuarios de las cuentas
+con los pedidos de rescate. b) El dominio @cock.li, es operado por una empresa
+ubicada en Seychelles y brinda el servicio de direcciones de correo electrónico con
+registro mediante el uso del navegador TOR (The Onion Router), que se caracteriza
+por poseer múltiples capas de cifrado empleadas como protección de privacidad del
+usuario que navega a través de él, para ocultar el rastro que éste deja en Internet, y por
+lo tanto, imposibilita prácticamente su identificación. El fiscal dio cuenta de una serie
+
+de impedimentos legales que explican la falta de respuesta por parte de la empresa
+ubicada en Seychelles, a saber: este país no pertenece a la Unión Europea, no ha
+suscripto el Convenio de Cibercrimen de Budapest del año 2001, ni existe ningún
+convenio bilateral en materia penal entre Seychelles y Argentina.   
+Pues bien, con sustento en todo lo anterior y demás información complementaria, el
+instructor concluyó que “...Esto evidencia la imposibilidad de obtener dato alguno que
+le permita a la instrucción identificar a los autores del presente hecho delictivo y
+tampoco a quienes exigen bienes para entregar la clave de descifrado”, y que pese a las
+amplias tareas investigativas “...no ha podido siquiera encontrar alguna pista que
+permita identificar a quienes estuvieron detrás del ataque y ahora solicitan rescate”.  
+De todo lo expuesto puede derivarse, sin el menor atisbo de duda, que resultan
+absolutamente inconducentes las medidas probatorias propuestas por el querellante
+para lograr la modificación de lo decidido. En efecto, dado que no ha resultado factible
+determinar los datos que serían de mayor relevancia para identificar a los autores de
+esta singular modalidad delictiva (atinentes a los IPs y correos electrónicos utilizados
+por éstos, el momento exacto del acceso, etc.), nada aportaría al respecto oficiar a las
+empresas vinculadas con el servidor de internet y con Calipso para identificar los IP
+que podrían haber actuado el día de la encriptación. Así como tampoco la recepción de
+más testimonios que nada de utilidad podrían añadir con respecto al hecho objeto de
+investigación. En especial considerando la conclusión del instructor acerca de que
+“...todo indicaría que los atacantes aprovecharon la posibilidad de ingreso remoto al
+servidor, para de esa forma infectar los archivos y solicitar un rescate”. Los testigos
+que han declarado sólo aportaron información sobre el funcionamiento del servidor,
+quiénes tenían acceso y qué datos se manejaba.  
+En este sentido coincido con el fiscal en cuanto sostiene que de los hechos
+investigados no surge posibilidad alguna de atribuir bajo la modalidad imprudente los
+
+delitos investigados.  
+Por lo demás, con respecto a alguna respuesta que reste incorporar e incluso
+eventualmente diligenciar, cabe recordar lo dicho por este tribunal acerca de la
+naturaleza del archivo previsto en el párrafo 3° del art. 334 del CPP, en lo que respecta
+a la posibilidad de reabrir la investigación “...si con posterioridad aparecen datos que
+permitan identificar a los autores o partícipes del hecho delictivo o si desaparecen los
+demás impedimentos referidos en el primer párrafo”.  
+En tal sentido, este tribunal mediante Sentencia n° 9 del 11/4/2018 (“Actuaciones
+labradas con motivo de la solicitud de paradero de Sánchez, Gustavo Hernán s/
+oposición al archivo”), sostuvo que “...La totalidad de la prueba valorada demuestra
+que a medida que avanzó la investigación fue perdiendo eficacia conviccional aquella
+invocada por la parte querellante, para apoyar las hipótesis de participación punible de
+un tercero en la muerte de Sánchez –pericia de parte–). Adviértase que respecto de la
+intervención de terceros todos los informes analizados fueron coincidentes en
+descartar esa hipótesis, y esa es precisamente la razón que autoriza el archivo de la
+presente causa. Sin perjuicio de que, por no haberse iniciado persecución penal en
+contra de persona alguna, el presente archivo no tiene carácter definitivo, toda vez que
+la calidad de definitivo del archivo se reserva para los casos [en] que está en juego el
+principio non bis in ídem. En tal sentido el Tribunal Superior de Justicia, in re
+‘Denuncia formulada por Carmen Mazoud’, Sent. N° 101, del 17/11/2000, sostuvo: ‘el
+auto del Juez de control que confirma el archivo de las actuaciones por no constituir la
+conducta investigada delito alguno adquiere el carácter definitivo que exige la
+impugnabilidad objetiva de la casación, y por sus efectos, puede razonablemente
+equipararse a una sentencia de sobreseimiento…al impedir una nueva investigación,
+por iguales hechos, en contra del mismo imputado, conforme a la extensión otorgada a
+la interpretación del principio non bis in ídem…’ (el destacado no pertenece al
+
+original; cit. por Cafferata Nores, José I. – Tarditti, Aída, Código Procesal Penal de la
+Provincia de Córdoba, comentado, Mediterránea, 2003, T. 2, p. 65, nota n° 102). Por
+lo que en el presente será de aplicación la disposición contenida en el cuarto párrafo
+del art. 334 del CPP, en su redacción actual (conf. Ley 10.457): ‘…el archivo no
+impedirá que se reabra la investigación si con posterioridad aparecen datos que
+permitan identificar a los autores o partícipes’…”. 
+En definitiva, por todo lo expuesto se debe rechazar el recurso intentado y confirmar el
+auto apelado en cuanto ha sido materia de impugnación. 
+B) El vocal Carlos Alberto Salazar dijo: Que comparte lo sostenido por el señor
+vocal preopinante, adhiriendo en consecuencia a su voto y pronunciándose en el
+mismo sentido. 
+C) La vocal Patricia Alejandra Farías dijo: Que comparte lo sostenido por el señor
+vocal del primer voto, adhiriendo en consecuencia a su voto y pronunciándose en el
+mismo sentido.  
+En consecuencia, este tribunal RESUELVE: Confirmar el auto apelado en cuanto ha
+sido materia de apelación. Con costas (CPP, art. 550 y 551). PROTOCOLÍCESE,
+NOTIFÍQUESE Y BAJEN. 
+ 
+ 
+Texto Firmado digitalmente por:
+DAVIES Maximiliano Octavio
+VOCAL DE CAMARA
+Fecha: 2022.12.28
+SALAZAR Carlos Alberto
+VOCAL DE CAMARA
+Fecha: 2022.12.28
+
+FARIAS Patricia Alejandra
+VOCAL DE CAMARA
+Fecha: 2022.12.28
+ROMERA LARGO Fernando Daniel
+SECRETARIO/A LETRADO DE CAMARA
+Fecha: 2022.12.28

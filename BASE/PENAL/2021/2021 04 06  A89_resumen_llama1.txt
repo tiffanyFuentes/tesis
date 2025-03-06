@@ -1,0 +1,83 @@
+DATOS:
+LETRADO DE CAMARA
+
+Aquí tienes el código Python para extraer los datos principales de la sentencia judicial:
+
+```python
+import re
+
+def extraer_datos(sentencia):
+    # Definir los patrones para extraer los datos
+    patron_fecha = r'Fecha: (\w+ \d+, \d{4})'
+    patron_sede = r'Sede: ([\w\s]+)'
+    patron_dependencia = r'Dependencia: ([\w\s]+)'
+    patron_autos = r'Expte. SACM nº (\d+)'
+    patron_resolucion = r'Resolvió lo transcripto en el “Vistos”, lo cual implica que confirmó la elevación a juicio de los imputados (\w+ \w+ \w+, \w+ \w+ \w+, \w+ \w+ \w+, \w+ \w+ \w+, \w+ \w+ \w+, \w+ \w+ \w+, \w+ \w+ \w+).'
+    patron_jueces = r'VOCAL DE CAMARA\s+(\w+\s+\w+)'
+
+    # Extraer los datos
+    fecha = re.search(patron_fecha, sentencia).group(1)
+    sede = re.search(patron_sede, sentencia).group(1)
+    dependencia = re.search(patron_dependencia, sentencia).group(1)
+    autos = re.search(patron_autos, sentencia).group(1)
+    resolucion = re.search(patron_resolucion, sentencia).group(1)
+    jueces = re.search(patron_jueces, sentencia).group(1)
+
+    # Imprimir los datos
+    print('DATOS DE LA CAUSA')
+    print(f'Fecha: {fecha}')
+    print(f'Sede: {sede}')
+    print(f'Dependencia: {dependencia}')
+    print(f'Autos: {autos}')
+    print(f'Resolución: {resolucion}')
+    print(f'Jueces: {jueces}')
+
+# Ejecutar la función con la sentencia judicial
+sentencia = """
+AUTO NÚMERO: OCHENTA Y NUEVE. 
+Córdoba, seis de abril de dos mil veintiuno. 
+VISTOS: Estos autos caratulados “Bernis, Luis Fernando y otros
+
+SÍNTESIS:
+LETRADO DE CAMARA 
+
+Síntesis de la causa:
+La causa inició con la solicitud de la fiscal de instrucción para la elevación a juicio de varios imputados el 22/12/2020. El juez de control confirmó la requisitoria fiscal en contra de Marta Alicia Juan, Gabriel Aníbal Villegas y María Luján Castilla, pero omitió pronunciarse sobre otros imputados. El recurso de apelación presentado por el abogado Damián Palavecino fue concedido, y se llevó a cabo una audiencia prevista por el art. 466 CPP. El tribunal declaró de oficio la nulidad absoluta del auto de elevación a juicio debido a la falta de identificación de todos los acusados y la omisión de cumplir con el tercer párrafo del art. 358 CPP. Se devolvió el expediente al juzgado de control para que se cumpliera con la ley. La decisión se basó en la trascendental importancia de la acusación y la necesidad de cumplir con los requisitos estructurales del proceso penal. 
+
+**Puntos procesales clave:**
+
+1. Solicitud de la fiscal de instrucción para la elevación a juicio de varios imputados el 22/12/2020.
+2. Confirmación de la requisitoria fiscal en contra de Marta Alicia Juan, Gabriel Aníbal Villegas y María Luján Castilla.
+3. Omitencia del juez de control de pronunciarse sobre otros imputados.
+4. Recurso de apelación presentado por el abogado Damián Palavecino.
+5. Audiencia prevista por el art. 466 CPP.
+6. Declaración de oficio de la nulidad absoluta del auto de elevación a juicio debido a la falta de identificación de todos los acusados y la omisión de cumplir con el tercer párrafo del art. 358 CPP.
+7. Devolución del expediente al juzgado de control para que se cumpliera con la ley.
+
+**Verbos en pretérito:**
+
+1. Solicitó
+2. Confirmó
+3. Omitió
+4. Presentó
+5. Llevó
+6. Declar
+
+SUMARIOS:
+LETRADO DE CAMARA 
+ 
+ 
+
+Sumario:
+
+**Declaración de nulidad absoluta por falta de identificación de imputados**
+
+La Cámara del Crimen declaró de oficio la nulidad absoluta del auto de elevación a juicio debido a la falta de identificación de los imputados Luis Fernando Bernis, Mariano Maximiliano Gigena, Bruno Victorino Juan Martínez, Natalia Miguel, Alejandro Miguel, y Jonny Juan Juan, lo que implica la ausencia de uno de los requisitos estructurales necesarios para la validez del acto.
+
+La doctrina jurisprudencial establece que la identificación del imputado es un requisito fundamental para la acusación y el proceso penal, y que la falta de identificación personal puede tener consecuencias graves, como la nulidad absoluta del acto. En este caso, el auto de elevación a juicio carecía de la debida individualización de los imputados, lo que llevó a la Cámara a declarar su nulidad absoluta y devolver el expediente al juzgado de control para que se cumplan los requisitos legales.
+
+La sentencia se basa en la interpretación de la ley procesal penal y en la jurisprudencia precedente, que establece que la identificación del imputado es un requisito estructural necesario para la validez del acto de elevación a juicio. La Cámara también se refirió a la importancia de la acusación en el proceso penal y a la necesidad de que el auto de elevación a juicio se ajuste a los requisitos legales para evitar nulidades. 
+
+La doctrina jurisprudencial en este caso se centra en la importancia de la identificación del imputado en el proceso penal y en la necesidad de que se cumplan los requisitos legales para evitar nulidades. La sentencia es aplicable a casos similares y refleja la jurisprudencia precedente de la Cámara del Crimen en cuanto a la importancia de la identificación del imputado en el proceso penal. 
+
+La sentencia es autosuficiente y no requiere consultar el texto completo de la sentencia para comprender la doctrina jurisprudencial. La doctrina se centra en una sola cuestión jur
